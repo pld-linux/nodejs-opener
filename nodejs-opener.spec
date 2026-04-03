@@ -2,7 +2,7 @@
 Summary:	Opens stuff, like webpages and files and executables, cross-platform
 Name:		nodejs-%{pkg}
 Version:	1.3.0
-Release:	1
+Release:	2
 License:	WTFPL
 Group:		Development/Libraries
 URL:		https://github.com/domenic/opener
